@@ -77,7 +77,7 @@
 
 ● docs: update readme with additional information
 
-● docs: update description of run( ) method
+● docs: update description of run ( ) method
 
 ## Создание коммитов:
 
