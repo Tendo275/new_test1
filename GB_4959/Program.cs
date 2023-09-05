@@ -133,13 +133,13 @@ int num2 = int.Parse(strNum);
 
 if(num1 > num2)
 {
-    Console.WriteLine("Большее число: "num1);
-    Console.WriteLine("Меньшее число: "num2);
+    Console.WriteLine("Большее число: " + num1);
+    Console.WriteLine("Меньшее число: " + num2);
 }
 else
 {
-    Console.WriteLine("Большее число: "num2);
-    Console.WriteLine("Меньшее число: "num1);
+    Console.WriteLine("Большее число: " + num2);
+    Console.WriteLine("Меньшее число: " + num1);
 }
 
 // Напишите программу, которая принимает на вход три числа и выдаёт максимальное из этих чисел.
@@ -147,4 +147,28 @@ else
 // 44 5 78 -> 78
 // 22 3 9 -> 22
 
+Console.Write("Enter number: ");
+string strNum = Console.ReadLine();
+int num1 = int.Parse(strNum);
+
+Console.Write("Enter number: ");
+strNum = Console.ReadLine();
+int num2 = int.Parse(strNum);
+
+Console.Write("Enter number: ");
+strNum = Console.ReadLine();
+int num3 = int.Parse(strNum);
+
+int max = num1;
+
+if(num2 > max)
+{
+    max = num2$
+}
+if(num3 > max)
+{
+    max = num3;
+}
+
+Console.WriteLine("Большее число: " + max);
 
