@@ -1,0 +1,15 @@
+/Users/sergejkulikov/Desktop/GIT/GB_4959/bin/Debug/net6.0/GB_4959
+/Users/sergejkulikov/Desktop/GIT/GB_4959/bin/Debug/net6.0/GB_4959.deps.json
+/Users/sergejkulikov/Desktop/GIT/GB_4959/bin/Debug/net6.0/GB_4959.runtimeconfig.json
+/Users/sergejkulikov/Desktop/GIT/GB_4959/bin/Debug/net6.0/GB_4959.dll
+/Users/sergejkulikov/Desktop/GIT/GB_4959/bin/Debug/net6.0/GB_4959.pdb
+/Users/sergejkulikov/Desktop/GIT/GB_4959/obj/Debug/net6.0/GB_4959.csproj.AssemblyReference.cache
+/Users/sergejkulikov/Desktop/GIT/GB_4959/obj/Debug/net6.0/GB_4959.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergejkulikov/Desktop/GIT/GB_4959/obj/Debug/net6.0/GB_4959.AssemblyInfoInputs.cache
+/Users/sergejkulikov/Desktop/GIT/GB_4959/obj/Debug/net6.0/GB_4959.AssemblyInfo.cs
+/Users/sergejkulikov/Desktop/GIT/GB_4959/obj/Debug/net6.0/GB_4959.csproj.CoreCompileInputs.cache
+/Users/sergejkulikov/Desktop/GIT/GB_4959/obj/Debug/net6.0/GB_4959.dll
+/Users/sergejkulikov/Desktop/GIT/GB_4959/obj/Debug/net6.0/refint/GB_4959.dll
+/Users/sergejkulikov/Desktop/GIT/GB_4959/obj/Debug/net6.0/GB_4959.pdb
+/Users/sergejkulikov/Desktop/GIT/GB_4959/obj/Debug/net6.0/GB_4959.genruntimeconfig.cache
+/Users/sergejkulikov/Desktop/GIT/GB_4959/obj/Debug/net6.0/ref/GB_4959.dll
