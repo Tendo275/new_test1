@@ -133,13 +133,13 @@ int num2 = int.Parse(strNum);
 
 if(num1 > num2)
 {
-    Console.WriteLine("Большее число: " + num1);
-    Console.WriteLine("Меньшее число: " + num2);
+    Console.WriteLine("Большее число: ", num1);
+    Console.WriteLine("Меньшее число: ", num2);
 }
 else
 {
-    Console.WriteLine("Большее число: " + num2);
-    Console.WriteLine("Меньшее число: " + num1);
+    Console.WriteLine("Большее число: ", num2);
+    Console.WriteLine("Меньшее число: ", num1);
 }
 
 // Напишите программу, которая принимает на вход три числа и выдаёт максимальное из этих чисел.
@@ -171,4 +171,22 @@ if(num3 > max)
 }
 
 Console.WriteLine("Большее число: " + max);
+
+// Напишите программу, которая на вход принимает число и выдаёт, является ли число чётным (делится ли оно на два без остатка).
+// 4 -> да
+// -3 -> нет
+// 7 -> нет
+
+Console.WriteLine("Введите число:");
+string strNum = Console.ReadLine();
+int num1 = int.Parse(strNum);
+
+if (num1 % 2 == 0)
+{
+    Console.WriteLine("Число является четным.", num1);
+}
+else
+{
+    Console.WriteLine("Число не является четным.", num1);
+}
 
