@@ -190,3 +190,23 @@ else
     Console.WriteLine("Число не является четным.", num1);
 }
 
+
+// Напишите программу, которая на вход принимает число (N), а на выходе показывает все чётные числа от 1 до N.
+// 5 -> 2, 4
+// 8 -> 2, 4, 6, 8
+
+Console.WriteLine("Введите число N:");
+string strNum = Console.ReadLine();
+int num1 = int.Parse(strNum);
+        
+int num2 = 1;
+
+for(int num2 <= num1; num2 ++)
+{
+    if(num2 % 2 == 0)
+    {
+        Console.WriteLine (num2);
+    }
+}
+
+Console.WriteLine (num2);
