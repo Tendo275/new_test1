@@ -210,3 +210,105 @@ for(int num2 <= num1; num2 ++)
 }
 
 Console.WriteLine (num2);
+
+
+// СЕМИНАР № 3
+
+// Задача №17. Напишите программу, которая принимает на вход координаты точки (X и Y), 
+// причем X ≠ 0 и Y ≠ 0 и выдаёт номер четверти плоскости, в которой находится эта точка.
+
+int GetNumber(string message)
+{
+    System.Console.Write($"Enter number {message} :");
+    int num = Convert.ToInt32(Console.ReadLine());
+    return num;
+}
+
+void Show(int x , int y)
+{
+if (x > 0 && y > 0)
+{
+    System.Console.WriteLine("1 четверть");
+}
+else if (x < 0 && y > 0)
+{
+    System.Console.WriteLine("2 четверть");
+}
+    else if (x < 0 && y < 0)
+{
+    System.Console.WriteLine("3 четверть");
+}
+    else if (x > 0 && y < 0)
+{
+    System.Console.WriteLine("4 четверть");
+}
+    else if (x == 0 || y == 0)
+    {
+        Console.WriteLine ("Х != 0; Y != 0")
+    }
+}
+
+int numX = GetNumber("X");
+int numY = GetNumber("Y");
+
+
+// Навпишите программу, которая по заданному номеру четверти, показывает диапазон возможных координат точек в этой четверти (X и Y)
+
+string GetNumber(int quart)
+{
+    Console.Write($"Enter number :");
+    int quart = Convert.ToInt32(Console.ReadLine());
+    return quart;
+}
+void Show(int quart)
+{
+    if (quart == 1)
+    {
+        System.Console.WriteLine("x > 0 , y > 0");
+    }
+    else if (quart == 2)
+    {
+        System.Console.WriteLine("x < 0 , y > 0");
+    }
+    else if (quart == 3)
+    {
+        System.Console.WriteLine("x < 0 , y < 0");
+    }
+    else if (quart == 4)
+    {
+        System.Console.WriteLine("x > 0 , y < 0");
+    }
+    else (quart == 4)
+    {
+        Console.WriteLine ("Некорректный ввод")
+    }
+    }
+int quart = GetInter();
+Show(quart);
+
+
+//Напишите программу, которая принимает на вход координаты двух точек и находит расстояние между ними в 2D пространстве.
+
+//A (3,6); B (2,1) -> 5,09
+//A (7,-5); B (1,-1) -> 7,21
+
+int GetNumber(string message)
+{
+    Console.Write($" Введите координату {message} : ");
+    int num = Convert.ToInt32(Console.ReadLine());
+    return num;
+}
+
+int numX1 = GetNumber("X1");
+int numY1 = GetNumber("Y1");
+int numX2 = GetNumber("X2");
+int numY2 = GetNumber("Y2");
+
+double numX = Math.Pow ((numX2 - numX1),2);
+double numY = Math.Pow ((numY2 - numY1),2);
+
+double result = Math.Sqrt (numX + numY);
+
+System.Console.WriteLine($"Результат равен {Math.Round(result, 2)}");
+
+
