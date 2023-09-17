@@ -1,0 +1,5 @@
+C:\Users\Tendo\OneDrive\Рабочий стол\GIT\obj\Debug\net6.0\GIT.csproj.AssemblyReference.cache
+C:\Users\Tendo\OneDrive\Рабочий стол\GIT\obj\Debug\net6.0\GIT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tendo\OneDrive\Рабочий стол\GIT\obj\Debug\net6.0\GIT.AssemblyInfoInputs.cache
+C:\Users\Tendo\OneDrive\Рабочий стол\GIT\obj\Debug\net6.0\GIT.AssemblyInfo.cs
+C:\Users\Tendo\OneDrive\Рабочий стол\GIT\obj\Debug\net6.0\GIT.csproj.CoreCompileInputs.cache
