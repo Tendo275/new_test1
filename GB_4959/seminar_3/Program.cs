@@ -143,3 +143,5 @@ Console.Write($"{arr[i]} ");
 }
 }
 Print(GetArray(8, 1, 1));
+
+
