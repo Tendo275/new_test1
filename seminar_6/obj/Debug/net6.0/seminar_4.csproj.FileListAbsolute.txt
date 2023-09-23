@@ -1,0 +1,5 @@
+C:\Users\Tendo\OneDrive\Рабочий стол\GIT\seminar_4\obj\Debug\net6.0\seminar_4.csproj.AssemblyReference.cache
+C:\Users\Tendo\OneDrive\Рабочий стол\GIT\seminar_4\obj\Debug\net6.0\seminar_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tendo\OneDrive\Рабочий стол\GIT\seminar_4\obj\Debug\net6.0\seminar_4.AssemblyInfoInputs.cache
+C:\Users\Tendo\OneDrive\Рабочий стол\GIT\seminar_4\obj\Debug\net6.0\seminar_4.AssemblyInfo.cs
+C:\Users\Tendo\OneDrive\Рабочий стол\GIT\seminar_4\obj\Debug\net6.0\seminar_4.csproj.CoreCompileInputs.cache
